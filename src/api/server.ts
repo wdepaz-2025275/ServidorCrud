@@ -1,5 +1,5 @@
 import { createServer } from "http";
-import { router } from "./router";  
+import { router } from "./router"; 
 
 const servidor = createServer(async (req, res) => {
     await router(req, res);
