@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mouse Inalámbrico",
+        "descripcion": "Teclado mecanico RGB",
+        "precio": 200,
+        "stock": 12,
+        "categoria": "Periféricos",
+        "estado": "Activo"
+    },
+    {
+        "id": 2,
+        "nombre": "Mouse Gamer",
+        "descripcion": "Mouse con sensor de alta precision",
+        "precio": 200,
+        "stock": 30,
+        "categoria": "Perifericos",
+        "estado": "Inactivo"
+    },
+    {
+        "id": 3,
+        "nombre": "Monitor 24 pulgadas",
+        "descripcion": "Monitor Full HD con tasa de refresco de 144Hz",
+        "precio": 1200,
+        "stock": 10,
+        "categoria": "Monitores",
+        "estado": "Activo"
+    }
+]
