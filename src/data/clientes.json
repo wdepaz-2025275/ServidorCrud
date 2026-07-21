@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nombre": "Carlos",
+        "apellido": "Lopez",
+        "correo": "carlos@gmail.com",
+        "telefono": "55551234",
+        "direccion": "Zona 10",
+        "estado": "Activo"
+    },
+    {
+        "id": 2,
+        "nombre": "Angel",
+        "apellido": "Lopez",
+        "correo": "angel@gmail.com",
+        "telefono": "55555678",
+        "direccion": "Zona 20",
+        "estado": "Inactivo"
+    },
+    {
+        "id": 3,
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "correo": "juan@gmail.com",
+        "telefono": "55559012",
+        "direccion": "Zona 30",
+        "estado": "Activo"
+    }
+]
